@@ -1,0 +1,36 @@
+.player-wrapper {
+     position: relative;
+     /* padding-top: 56.25% Player ratio: 100 / (1280 / 720)   */
+     /* overflow-y: hidden; */
+   
+  }
+  
+  .react-player {
+    /* position: absolute; */
+    /* top: 0;
+    left:0%; */
+    /* overflow-y: hidden; */
+  }
+
+  /* @media screen and (max-width: 1440px) {
+    .react-player {
+        padding-bottom: 40px;
+    }
+  } */
+  /* video {
+    position: relative;
+    width: 560px !important;
+    height: auto !important;
+
+  } */
+  .player-bottom{
+      /* margin-bottom: 40px; */
+  }
+  @media screen and (max-width: 320px) {
+    video{
+        width: 320px;
+        height: 320px;
+        overflow: hidden;
+    }
+  }
+ 

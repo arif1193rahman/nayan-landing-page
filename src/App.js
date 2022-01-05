@@ -1,23 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import SecondSectioon from './Components/SecondSection/SecondSectioon';
+import UpperSection from './Components/UpperSection/UpperSection';
+import VedioPlayer from './Components/UpperSection/VedioPlayer/VedioPlayer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <UpperSection></UpperSection>
+      {/* <VedioPlayer></VedioPlayer> */}
+      <SecondSectioon></SecondSectioon>
     </div>
   );
 }
