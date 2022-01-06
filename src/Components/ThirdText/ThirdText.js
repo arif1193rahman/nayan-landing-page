@@ -3,7 +3,7 @@ import "./ThirdText.css";
 
 const ThirdText = () => {
   return (
-    <div>
+    <div className="third-text-start">
       <div className="third-text-main">
         <p>
           <span className="third-text-first">So, you May Be Thinking</span>{" "}

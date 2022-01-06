@@ -1,3 +1,6 @@
+.third-text-start{
+    background-color: rgba(238, 241, 243, 0.363);
+}
 .third-text-main {
   margin-top: 50px;
   letter-spacing: -1px;
@@ -35,9 +38,10 @@
   font-size: 1.6vw;
   letter-spacing: -1px;
   line-height: 1;
+  font-weight: 400;
 }
 .plus {
-  font-size: 2vw;
+  font-size: 1.8vw;
   font-weight: 600;
 }
 .second-span {

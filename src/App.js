@@ -1,4 +1,5 @@
 import './App.css';
+import ForthIImage from './Components/ForthIImage/ForthIImage';
 import SecondSectioon from './Components/SecondSection/SecondSectioon';
 import SecondVideo from './Components/SecondVideo/SecondVideo';
 import ThirdText from './Components/ThirdText/ThirdText';
@@ -13,6 +14,7 @@ function App() {
       <SecondSectioon></SecondSectioon>
       <SecondVideo></SecondVideo>
       <ThirdText></ThirdText>
+      <ForthIImage></ForthIImage>
     </div>
   );
 }
