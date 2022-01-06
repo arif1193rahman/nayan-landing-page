@@ -1,9 +1,33 @@
 .second-image {
-  margin-top: 10px;
+  margin-top: 80px;
   background-color: rgb(14, 141, 199);
   /* width: 100%; */
   height: auto;
+  padding: 10px 45px;
   border: 3px solid rgb(14, 141, 199);
-  border-radius: 5px;
+  border-radius: 15px;
+  color: white;
+  letter-spacing: -1px;
   box-shadow: rgb(223, 233, 137) 6px 2px 16px 0px, rgba(197, 76, 76, 0.8) -6px -2px 16px 0px;
+}
+
+.second-image-text{
+    line-height: 1;
+}
+.second-image-first{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    font-weight: 500;
+    
+}
+.second-image-second{
+    font-size: 2.8vw;
+    font-weight: 600;
+}
+.second-image-third{
+font-size: 2.5vw;
+}
+.second-image-third-span{
+font-size: 3.3vw;
+font-weight: 600;
 }
