@@ -11,6 +11,8 @@ const EightVideo = () => {
           src="https://www.youtube.com/embed/tgbNymZ7vqY"
         ></iframe>
       </div>
+      <button className="video-button-text">YES! I WANT THE FREE SUPER FUNNEL</button>
+
     </div>
   );
 };

@@ -17,3 +17,14 @@ margin: 35px;
 font-size: 3vw;
 font-weight: 600;
 }
+.video-button-text{
+    background-color: rgb(14, 141, 199);
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+    font-size: 2.5vw;
+    box-shadow: rgb(63, 52, 52) 0px 3px 8px;
+    width: 100%;
+    margin-top: 50px;
+}
