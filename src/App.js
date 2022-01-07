@@ -1,4 +1,5 @@
 import './App.css';
+import EightVideo from './Components/EightVideo/EightVideo';
 import FifthImage from './Components/FifthImage/FifthImage';
 import ForthIImage from './Components/ForthIImage/ForthIImage';
 import SecondSectioon from './Components/SecondSection/SecondSectioon';
@@ -21,6 +22,7 @@ function App() {
       <FifthImage></FifthImage>
       <SixthImage></SixthImage>
       <SeventhSection></SeventhSection>
+      <EightVideo></EightVideo>
     </div>
   );
 }
