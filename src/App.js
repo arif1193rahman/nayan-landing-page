@@ -2,6 +2,7 @@ import './App.css';
 import EightVideo from './Components/EightVideo/EightVideo';
 import FifthImage from './Components/FifthImage/FifthImage';
 import ForthIImage from './Components/ForthIImage/ForthIImage';
+import NineImageSection from './Components/NineImageSection/NineImageSection';
 import SecondSectioon from './Components/SecondSection/SecondSectioon';
 import SecondVideo from './Components/SecondVideo/SecondVideo';
 import SeventhSection from './Components/SeventhSection/SeventhSection';
@@ -23,6 +24,7 @@ function App() {
       <SixthImage></SixthImage>
       <SeventhSection></SeventhSection>
       <EightVideo></EightVideo>
+      <NineImageSection></NineImageSection>
     </div>
   );
 }

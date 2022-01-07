@@ -1,0 +1,51 @@
+.nine-responsive-first {
+  width: 100%;
+  height: auto;
+  /* margin-top: 5px; */
+  /* padding: 10px; */
+}
+.nine-card1 {
+  border: 1px solid rgb(14, 141, 199);
+  width: 750px;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+.nine-card1-text {
+  background-color: rgb(14, 141, 199);
+  padding: 10px;
+  font-size: 2.5vw;
+  font-weight: 700;
+  color: white;
+}
+.nine-extra{
+font-weight: 450;
+}
+.nine-card2-text {
+  font-size: 3.4vw;
+  font-weight: 700;
+}
+.nine-card2-text-second{
+    font-size: 2.5vw;
+    font-weight: 700;
+}
+.nine-amount{
+    color: red;
+    font-size: 2.8vw;
+    font-weight: 700;
+}
+.nine-last-text{
+    text-align: start;
+    font-size: 1.6vw;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.nine-last-one{
+    font-weight: 700;
+    font-size: 2vw;
+}
+.nine-card2-main{
+    margin-top: 50px;
+}
+.nine-card3-main{
+    margin-top: 50px;
+}
