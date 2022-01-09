@@ -13,7 +13,7 @@ const NineImageSection = () => {
       </div>
       <div className="nine-card1 container">
         <p className="nine-card1-text">
-          Bonus #1 -{" "}
+          Bonus #1 -
           <span className="nine-extra">Super Funnel Hero T-Shirt</span>
         </p>
         <p className="nine-card2-text">

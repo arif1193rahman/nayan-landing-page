@@ -1,0 +1,56 @@
+.eleven-second {
+  /* border: 1px solid rgb(14, 141, 199); */
+  width: 850px;
+  letter-spacing: -1px;
+  line-height: 1;
+  background-color: rgb(14, 141, 199);
+  margin-top: 80px;
+}
+.eleven-img {
+  width: 100%;
+  height: auto;
+  margin-top: -95px;
+  /* padding: 10px; */
+}
+.eleven-second-text {
+  font-weight: 700;
+  font-size: 3vw;
+  color: white;
+}
+.eleven-third {
+  width: 850px;
+  border: 1px solid rgb(14, 141, 199);
+  font-size: 1vw;
+
+}
+.eleven-list {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  text-align: start;
+  padding: 10px;
+  letter-spacing: -1px;
+}
+.eleven-list1{
+}
+.eleven-cost1{
+    color: red;
+}
+.eleven4-main{
+    line-height: 1
+}
+.eleven4-one{
+    color: red;
+    font-size: 3.5vw;
+    font-weight: 700;
+}
+.eleven4-two{
+    font-size: 3vw;
+    letter-spacing: -1px;
+}
+.eleven4-three{
+font-size: 15vw;
+color:green;
+font-weight: 600;
+letter-spacing: -1px;
+}

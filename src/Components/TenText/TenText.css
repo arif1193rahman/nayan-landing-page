@@ -1,0 +1,59 @@
+.nine1-main{
+    margin-top: 50px;
+}
+.nine1 {
+    /* margin-top: 50px; */
+  font-weight: 700;
+  font-size: 3.8vw;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  padding: 10px;
+  border-color: blue;
+  /* width: 560px; */
+}
+.nine1-pera {
+  text-align: start;
+  font-size: 2vw;
+  letter-spacing: -1px;
+  line-height: 1;
+  width: 860px;
+}
+.nine1-first {
+  font-weight: 700;
+}
+.nine1-second {
+  font-weight: 700;
+}
+.nine-last {
+  font-weight: 700;
+  font-size: 1.6vw;
+}
+.nine-last1 {
+  font-weight: 700;
+  font-size: 1.6vw;
+}
+.nine11 {
+  text-align: start;
+  width: 860px;
+}
+.nine1-last1 {
+  font-weight: 500;
+}
+.nine2-main{
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-weight: 500;
+}
+.nine2-header{
+    font-size: 4vw;
+    font-weight: 700;
+}
+.nine2{
+    width: 860px;
+    font-size: 1.5vw;
+    text-align: start;
+    margin-top: 30px;
+}
+.nine2-second{
+
+}
